@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Talha
+- 👀 I’m interested in Flutter/Machine Learning/Data Science/Robotics
+- 🌱 I’m currently learning Native Mobile app development
+- 💞️ I’m looking to collaborate on paid Projects
+- 📫 You can reach me at muhammedtalha@techsol360.com
